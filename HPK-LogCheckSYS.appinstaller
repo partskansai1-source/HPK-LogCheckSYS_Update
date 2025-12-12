@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller
+    Uri="file:///E:/projects/HPK-LogCheckSYS/APP_Package/HPK-LogCheckSYS.appinstaller"
+    Version="1.0.7.0"
+    xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+
+  <MainPackage
+      Name="com.companyname.hpk-logisticsconfirmsys"
+      Publisher="CN=HondaPartsKansai"
+      Version="1.0.7.0"
+      ProcessorArchitecture="x64"
+      Uri="file:///E:/projects/HPK-LogCheckSYS/APP_Package/HPK-LogCheckSYS_1.0.7.0_Test/HPK-LogCheckSYS_1.0.7.0_x64.msix" />
+
+  <UpdateSettings>
+    <OnLaunch HoursBetweenUpdateChecks="0" />
+  </UpdateSettings>
+
+</AppInstaller>
