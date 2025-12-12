@@ -8,8 +8,9 @@
       Publisher="CN=HondaPartsKansai"
       Version="1.0.6.0"
       ProcessorArchitecture="x64"
-      Uri="https://github.com/partskansai1-source/HPK-LogCheckSYS_Update/releases/download/v1.0.6/HPK-LogCheckSYS_1.0.6.0_x64.msix" />
+      Uri="https://github.com/partskansai1-source/HPK-LogCheckSYS_Update/releases/download/v1/HPK-LogCheckSYS_1.0.6.0_x64.msix" />
   <UpdateSettings>
     <OnLaunch HoursBetweenUpdateChecks="0" />
   </UpdateSettings>
 </AppInstaller>
+
